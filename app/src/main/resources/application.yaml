@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: zoo-keeping
+
+server:
+  port: 9090
